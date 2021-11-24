@@ -3,7 +3,7 @@ Pagina con tipos de barras sociales fijas y flotantes en HTML y CSS
 
 Comenzando 🚀
 
-Link de prueba:
+Link de prueba: https://ejpyszczek.github.io/Menu-para-Redes-Sociales/
 
 Herramientas requisitos 📋
 HTML - CSS - Visual Studio Code
