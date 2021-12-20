@@ -1,7 +1,8 @@
-Tipos de barras sociales  
+Tipos de barras sociales 
+(En el index esta separado las barras del html) 
 Pagina con tipos de barras sociales fijas y flotantes en HTML y CSS
 
-Comenzando 🚀
+Comenzando 🚀 
 
 Link de prueba: https://ejpyszczek.github.io/Menu-para-Redes-Sociales/
 
